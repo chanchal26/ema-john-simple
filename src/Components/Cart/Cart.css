@@ -1,0 +1,51 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.cart h1 {
+    text-align: center;
+}
+
+.cart p {
+    margin-left: 20px;
+}
+
+.cart h3 {
+    margin-left: 20px;
+}
+
+.btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background: #FF3030;
+    border: none;
+    border-radius: 7px;
+}
+
+.btn-1:hover {
+    background: #e76262;
+}
+
+.btn-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background: #FF9900;
+    border: none;
+    border-radius: 7px;
+}
+
+.btn-2:hover {
+    background: #eab464;
+}
